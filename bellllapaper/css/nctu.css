@@ -1,0 +1,79 @@
+body{
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+.nowrap{
+  white-space: nowrap;
+}
+.chinese{
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+.navitem{
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+.title{
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+.subtitle{
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 16px;
+}
+
+.timetitle{
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 12px;
+  color: #777;
+  opacity: 0.60;
+}
+
+.target-text{
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+.chart-wording{
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+.underline {
+  width: 25px;
+  height: 3px;
+  display: inline-block;
+  background: #616161;
+  transition: background 0.3s;
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
+#target p::first-letter {
+  font-size: 200%;
+  color: #342be2;
+  font-weight: bold;
+  padding: 2px;
+}
+
+table{
+  white-space: nowrap;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+.info {
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+ line-height: 50px;
+
+}
+
+.info p{
+ font-size: 20px;
+ vertical-align: middle;
+ line-height: 50px;
+ margin-left: 5px;
+ font-family: 'Noto Sans TC', sans-serif;
+
+}
