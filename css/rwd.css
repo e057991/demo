@@ -153,6 +153,9 @@
      margin:0 5px;
   }
 
+  .small-img{
+    width: 200px;
+  }
   .logodiv{
     margin-left: 60px;
   }
