@@ -126,9 +126,10 @@
     font-size: 14px;
   }
 
+
 }
 
-@media (min-width: 400px) and (max-width: 768px) {
+@media (min-width: 300px) and (max-width: 768px) {
 
   .logodiv{
     margin-left: 60px;
@@ -139,5 +140,7 @@
    height: 200px;
   }
 
-
+  .table{
+    font-size: 8px;
+  }
 }
