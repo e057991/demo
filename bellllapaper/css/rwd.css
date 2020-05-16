@@ -54,6 +54,13 @@
   .l-padding{
       margin:0 100px;
   }
+
+
+
+  .l-zoom{
+    zoom: 80%;
+  }
+
 }
 
 @media (min-width: 1290px) {
@@ -90,7 +97,13 @@
      font-size: 22px;
   }
 
+  .xl-padding{
+      margin:0 300px;
+  }
 
+  .xl-zoom{
+    zoom: 80%;
+  }
 
 
 }
@@ -149,8 +162,9 @@
     font-size: 8px;
   }
 
-  .s-text{
+  #resultd h6{
     font-size: 8px;
+    white-space: nowrap;
   }
   #honor{
     margin: 0 10px;

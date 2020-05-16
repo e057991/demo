@@ -2,6 +2,9 @@ body{
   font-family: 'Noto Sans TC', sans-serif;
 }
 
+.img-center{
+  width: 100%;
+}
 .nowrap{
   white-space: nowrap;
 }
