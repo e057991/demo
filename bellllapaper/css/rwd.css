@@ -23,7 +23,7 @@
 
 
   #target p{
-    font-size: 18px;
+    font-size: 16px;
     line-height: 30px;
     font-weight: none;
     font-family: 'Noto Sans TC', sans-serif;
@@ -51,7 +51,9 @@
     font-size: 14px;
   }
 
-
+  .l-padding{
+      margin:0 100px;
+  }
 }
 
 @media (min-width: 1290px) {
@@ -87,6 +89,9 @@
   .large-ul{
      font-size: 22px;
   }
+
+
+
 
 }
 
@@ -129,7 +134,7 @@
 
 }
 
-@media (min-width: 300px) and (max-width: 768px) {
+@media (max-width: 768px) {
 
   .logodiv{
     margin-left: 60px;
@@ -142,5 +147,12 @@
 
   .table{
     font-size: 8px;
+  }
+
+  .s-text{
+    font-size: 8px;
+  }
+  #honor{
+    margin: 0 10px;
   }
 }
