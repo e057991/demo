@@ -155,9 +155,10 @@
 
   .small-img{
     width: 200px;
+    height: 200px;
   }
   .logodiv{
-    margin-left: 60px;
+    margin-left: 40px;
   }
 
   #labdeatil img{
